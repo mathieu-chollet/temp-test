@@ -1,1 +1,1 @@
-print("This is a test -- Python running inside Azure Pipelines, with CI")
+print("This is a test -- Python running inside Azure Pipelines, with CI...")
