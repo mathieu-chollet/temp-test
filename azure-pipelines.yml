@@ -14,6 +14,5 @@ steps:
   inputs:
     versionSpec: '3.6'
 
-steps:
 - script: python startup.py
   displayName: 'Launch startup file'
