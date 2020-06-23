@@ -1,1 +1,1 @@
-print("hello world!")
+print("This is a test -- Python running inside Azure Pipelines!")
